@@ -36,4 +36,6 @@
 - Factors reduction is done for the variables job description, education_details, month_of_year, poutcome_of_campaign based on target variable "outcome".
 - It is found that test and train data sets contain different number of classes so both data sets are concatinated and dummy variables are created. After creating dummy variables test & train data sets are separated.
 
+## Modeling Technique Used:
 
+- Random forest classifier
