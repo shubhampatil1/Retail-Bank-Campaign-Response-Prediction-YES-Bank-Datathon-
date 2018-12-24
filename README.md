@@ -35,7 +35,22 @@
 - Variables has_default, housing_status, previous_loan consists of two factors which can be encoded to '0' '1' form to avoide extra dummy variables.
 - Factors reduction is done for the variables job description, education_details, month_of_year, poutcome_of_campaign based on target variable "outcome".
 - It is found that test and train data sets contain different number of classes so both data sets are concatinated and dummy variables are created. After creating dummy variables test & train data sets are separated.
+- Since the train data is imbalanced, oversampling is introduced in train data by using SMOTE.
 
 ## Modeling Technique Used:
 
 - Random forest classifier
+
+## Packages Required
+
+- Sklearn
+- Imblearn
+- Matplotlib
+- Pandas
+- Numpy
+- OS
+
+## Results
+
+- Random Forest classifier score: 97.2%
+- Out of Bag error score: 97.3%
