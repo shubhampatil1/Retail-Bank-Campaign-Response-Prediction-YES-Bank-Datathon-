@@ -1,2 +1,2 @@
 # Retail Bank Campaign Response Prediction-YES Bank Datathon 
-[Screenshot](E:\data science\Hackathons\Student Yes bank\outcome factors ratio.png)
+![Screenshot](https://github.com/shubhampatil1/Retail-Bank-Campaign-Response-Prediction-YES-Bank-Datathon-/blob/master/outcome%20factors%20ratio.png)
