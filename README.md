@@ -5,7 +5,7 @@
 
 ###### Outcome Factors ratio
 
-![Screenshot](https://github.com/shubhampatil1/Retail-Bank-Campaign-Response-Prediction-YES-Bank-Datathon-/blob/master/outcome%20factors%20ratio.png)
+![Screenshot](https://github.com/shubhampatil1/Retail-Bank-Campaign-Response-Prediction-YES-Bank-Datathon-/blob/master/outcome%20factors%20ratio%20file.png)
 
 ## Variables Dictionary
 
