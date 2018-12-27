@@ -46,6 +46,7 @@
 - Sklearn
 - Imblearn
 - Matplotlib
+- Seaborn
 - Pandas
 - Numpy
 - OS
